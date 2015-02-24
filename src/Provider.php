@@ -8,9 +8,7 @@ use Laravel\Socialite\Two\User;
 class Provider extends AbstractProvider implements ProviderInterface
 {
     /**
-     * The scopes being requested.
-     *
-     * @var array
+     * {@inheritdoc}
      */
     protected $scopes = [
         'https://www.googleapis.com/auth/plus.me',
@@ -19,9 +17,7 @@ class Provider extends AbstractProvider implements ProviderInterface
     ];
 
     /**
-     * The separating character for the requested scopes.
-     *
-     * @var string
+     * {@inheritdoc}
      */
     protected $scopeSeparator = ' ';
 
