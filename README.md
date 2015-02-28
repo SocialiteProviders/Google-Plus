@@ -1,4 +1,10 @@
-# Google OAuth2 Provider for Laravel Socialite
+# Google+ OAuth2 Provider for Laravel Socialite
+
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/Google-Plus.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/Google-Plus/?branch=master)
+[![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/google-plus.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/google-plus)
+[![Total Downloads](https://img.shields.io/packagist/dt/socialiteproviders/google-plus.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/google-plus)
+[![Latest Unstable Version](https://img.shields.io/packagist/vpre/socialiteproviders/google-plus.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/google-plus)
+[![License](https://img.shields.io/packagist/l/socialiteproviders/google-plus.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/google-plus)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
